@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1044-find-common-characters) |
 # String
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1044-find-common-characters) |
+# Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
