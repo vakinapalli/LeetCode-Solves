@@ -1,17 +1,13 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        hold = set()
-        ans = []
+        hold = {}
+        
         for ind, num in enumerate(nums):
             if target - num in hold:
-                ans.append(ind)
-                break
-            hold.add(num)
-        for ind, num in enumerate(nums):
-            if num == target - nums[ans[0]]:
-                ans.append(ind)
-                break
-        return ans
+                return [ind, hold[target-num]]
+                
+            hold[num] = ind
+        
        
         """
         :type nums: List[int]
