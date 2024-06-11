@@ -8,14 +8,6 @@ class Solution(object):
             for j,elem in enumerate(row):
                 if elem != '.':
                     if elem in rows[i] or elem in cols[j] or elem in blocks[int(ceil((i+1)/3.0)-1)][int(ceil((j+1)/3.0)-1)]:
-                        if elem in rows[i]:
-                            print("rows")
-                        elif elem in cols[j]:
-                            print("cols")
-                        else:
-                            print("blocks")
-                            print((i+1)/3)
-                        print(i, j, int(ceil((i+1)/3)-1),int(ceil((j+1)/3)-1))
 
                         return False
                     rows[i].add(elem)
