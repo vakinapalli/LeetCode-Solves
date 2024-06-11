@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [1044-find-common-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [1044-find-common-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1217-relative-sort-array) |
 # String
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1217-relative-sort-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -63,3 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0036-valid-sudoku) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1217-relative-sort-array) |
