@@ -93,3 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
+<!---LeetCode Topics End-->
