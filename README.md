@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2058-concatenation-of-array) |
@@ -109,18 +110,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
