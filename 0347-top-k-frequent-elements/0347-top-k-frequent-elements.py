@@ -1,34 +1,30 @@
 class Solution(object):
     def topKFrequent(self, nums, k):
-        freq = {}
-        for num in nums:
-            if num in freq:
-                freq[num] +=1
-            else:
-                freq[num] = 1
-        ar = [[] for _ in range((len(nums) + 1))]
-        ans = []
-        #sorteddict = sorted(freq.items(), key = lambda item: item[1], reverse = True)
-        for a in freq:
-            print(a, "len", len(ar))
-            
-            ar[freq[a]].append(a)
-        
-        for i in range(len(nums), 0, -1):
-            if ar[i]:
-                for elem in ar[i]:
-                    ans.append(elem)
-                    k -= 1
-                    if k == 0: 
-                        break
-                if k == 0:
-                    break
-        return ans
-
-            
         """
         :type nums: List[int]
         :type k: int
         :rtype: List[int]
         """
+
+        dic = {}
+        for i in nums:
+            if i in dic:
+                dic[i] += 1
+            else:
+                dic[i] = 1
+        
+        ct = [[] for i in range(len(nums) + 1)]
+        for i in dic:
+            ct[dic[i]].append(i)
+        
+        result = []
+        i = len(nums)
+        while k > 0:
+            for j in ct[i]:
+                result.append(j)
+                k -= 1
+                if k == 0:
+                    break
+            i -= 1
+        return result
         
