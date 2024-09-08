@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
