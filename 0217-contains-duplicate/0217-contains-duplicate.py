@@ -1,14 +1,16 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        seta = set()
-        for a in nums:
-            if a in seta:
-                return True
-            seta.add(a)
-        return False
-
         """
         :type nums: List[int]
         :rtype: bool
         """
+        record = set()
+
+        for i in range(len(nums)):
+            if nums[i] in record:
+                return True
+            record.add(nums[i])
+
+        return False
+
         
