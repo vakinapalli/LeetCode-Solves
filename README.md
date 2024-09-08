@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
 ## String
@@ -117,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
