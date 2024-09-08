@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2058-concatenation-of-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
@@ -111,10 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
