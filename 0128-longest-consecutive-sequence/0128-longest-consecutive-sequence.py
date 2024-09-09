@@ -1,22 +1,20 @@
 class Solution(object):
     def longestConsecutive(self, nums):
-        init = set(nums)
-        top = 0
-        for num in nums:
-            if num + 1 in init:
-                continue
-            hold = num
-            curr = 1
-            while hold - 1 in init:
-                hold -= 1
-                curr += 1
-            top = max(curr, top)
-        return top
-
-
-
         """
         :type nums: List[int]
         :rtype: int
         """
-        
+        top = 0
+        ct = set(nums)
+        for i in nums:
+            if i - 1 in ct:
+                continue
+            p = i
+            seq = 1
+            while p + 1 in ct:
+                 seq += 1
+                 p += 1
+            top = max(top, seq)
+
+        return top
+            
