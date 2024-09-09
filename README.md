@@ -149,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
