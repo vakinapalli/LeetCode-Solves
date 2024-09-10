@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
