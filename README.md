@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0838-design-linked-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
