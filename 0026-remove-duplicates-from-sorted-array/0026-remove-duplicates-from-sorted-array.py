@@ -1,14 +1,25 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        k = 1
+        if len(nums) is 1:
+            return k
+        repct = 0
+        i = 1
+        hold = len(nums)
+        while i < hold:
+            if nums[i] == nums[i-1]:
+                repct += 1
+                i += 1
+            else:
+                for j in range(i,hold):
+                    nums[j-repct] = nums[j]
 
-        L = 1
-        for r in range(1,len(nums)):
-            if nums[r] != nums[r-1]:
-                nums[L] = nums[r]
-                L += 1
-        return L
+                k += 1
+                i = i - repct + 1
+                hold = hold - repct
+                repct = 0
+
+
+        
+        return k
+
