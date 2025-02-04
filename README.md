@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0143-reorder-list) |
 ## Simulation
