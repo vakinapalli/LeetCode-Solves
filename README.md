@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
