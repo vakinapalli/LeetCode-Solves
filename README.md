@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
