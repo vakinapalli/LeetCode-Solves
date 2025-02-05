@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -277,10 +278,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
