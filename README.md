@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
@@ -255,12 +256,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0094-binary-tree-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0094-binary-tree-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0094-binary-tree-inorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0784-insert-into-a-binary-search-tree) |
