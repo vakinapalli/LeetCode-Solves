@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
@@ -326,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0784-insert-into-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
