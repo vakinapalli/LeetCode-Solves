@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1127-last-stone-weight) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
@@ -189,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -339,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0078-subsets) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
