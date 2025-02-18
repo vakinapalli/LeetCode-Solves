@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1127-last-stone-weight) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
