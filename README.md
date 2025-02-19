@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
