@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0198-house-robber) |
 ## Memoization
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
