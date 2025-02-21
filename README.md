@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1250-longest-common-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0198-house-robber) |
+| [1250-longest-common-subsequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
