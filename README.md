@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0215-kth-largest-element-in-an-array) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
