@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1250-longest-common-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0424-longest-repeating-character-replacement) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
@@ -405,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
