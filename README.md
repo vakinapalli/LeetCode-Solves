@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union Find
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0695-max-area-of-island) |
 ## Interactive
 |  |
