@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0739-daily-temperatures) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1582-design-browser-history) |
 ## Divide and Conquer
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0303-range-sum-query-immutable) |
 ## Union Find
 |  |
 | ------- |
