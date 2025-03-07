@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0219-contains-duplicate-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0908-middle-of-the-linked-list) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0206-reverse-linked-list) |
