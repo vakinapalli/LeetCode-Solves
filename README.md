@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2058-concatenation-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1127-last-stone-weight) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0695-max-area-of-island) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Interactive
 |  |
 | ------- |
@@ -445,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0208-implement-trie-prefix-tree) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
