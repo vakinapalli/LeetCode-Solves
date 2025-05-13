@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1250-longest-common-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2727-number-of-senior-citizens) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2215-finding-3-digit-even-numbers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0347-top-k-frequent-elements) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1014-k-closest-points-to-origin) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vakinapalli/LeetCode-Solves/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/vakinapalli/LeetCode-Solves/tree/master/1250-longest-common-subsequence) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/vakinapalli/LeetCode-Solves/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
